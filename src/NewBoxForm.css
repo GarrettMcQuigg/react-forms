@@ -1,0 +1,11 @@
+.form-container {
+  margin-top: 20px;
+  margin-left: 33%;
+  width: 30%;
+  height: 200px;
+  border: 1px solid black;
+}
+
+form {
+  padding-top: 50px;
+}
